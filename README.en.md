@@ -9,7 +9,7 @@ A demo of **production patterns for long-running FastAPI background jobs**: `202
 ---
 
 > 📺 **Prefer watching over reading?** I walk through the entire codebase on YouTube:
-> **[Part 1](https://youtu.be/PLACEHOLDER_PART_1)** · **[Part 2](https://youtu.be/PLACEHOLDER_PART_2)**
+> **[Part 1](https://youtu.be/1bNQu9dfdTY)** · **[Part 2](https://youtu.be/ASycwvC7xj8)**
 
 ---
 

@@ -9,7 +9,7 @@ Demo produkcyjnego wzorca dla **długich zadań w tle w FastAPI**: kontrakt `202
 ---
 
 > 📺 **Wolisz obejrzeć niż czytać?** Cały kod omawiam na YouTube:
-> **[Część 1](https://youtu.be/PLACEHOLDER_CZESC_1)** · **[Część 2](https://youtu.be/PLACEHOLDER_CZESC_2)**
+> **[Część 1](https://youtu.be/1bNQu9dfdTY)** · **[Część 2](https://youtu.be/ASycwvC7xj8)**
 
 ---
 
